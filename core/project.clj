@@ -11,7 +11,7 @@
                  [org.clojure/spec.alpha "0.2.194"]
                  [camel-snake-kebab "0.4.2"]
                  [cheshire "5.10.1"]
-                 [clj-commons/clj-yaml "0.7.107"]
+                 [clj-commons/clj-yaml "1.0.27"]
                  [lambdaisland/uri "1.12.89"]
 
                  [com.cognitect/transit-clj "1.0.324"]
